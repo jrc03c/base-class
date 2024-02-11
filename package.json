@@ -6,7 +6,7 @@
     "prettier": "^3.2.5"
   },
   "name": "@jrc03c/base-class",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/index.js",
   "scripts": {
     "pub": "npm version patch --force && npm publish --access=public",
