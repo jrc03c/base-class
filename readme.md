@@ -1,3 +1,7 @@
+> ⚠️ **NOTE:** ⚠️ This project is being merged into a monorepo [here](https://github.com/jrc03c/monorepo/tree/main/packages/bee). This repo will soon be archived.
+
+---
+
 # Intro
 
 This class can hopefully operate as a base upon which to build other classes in contexts where (1) you want to use event emission patterns and/or (2) you want to store and retrieve object data to and from disk or other storage medium (e.g., `localStorage`).
